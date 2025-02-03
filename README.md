@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sino Samateh, and I'm an FrontEnd Developer interested in all things React & CSS related!
+My name is Sino Samateh, and I'm an FrontEnd Developer interested in all things NEXTJS & CSS related!
 
 - 🔭 I’m currently working on TourayPortfolio, A portfolio Website for a Graphic Designer.
 - 🌱 I’m currently learning: React Native, C#, Swift, Backend Tools
