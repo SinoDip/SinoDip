@@ -1,21 +1,26 @@
-## Hi there 👋
+# 👋 Hey there! I'm Sino Samateh
 
-My name is Sino Samateh, and I'm an FrontEnd Developer interested in all things NEXTJS & CSS related!
+🚀 **Frontend Developer | Passionate About Web & UI/UX**
 
-- 🔭 I’m currently working on TourayPortfolio, A portfolio Website for a Graphic Designer.
-- 🌱 I’m currently learning: React Native, C#, Swift, Backend Tools
+I'm a **student frontend developer** who loves crafting beautiful and interactive web experiences. I enjoy working with **React, Next.js, and modern web technologies**, bringing designs to life with **clean and responsive code**.
 
-<!--
-**SinoDip/SinoDip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
 
-Here are some ideas to get you started:
+🔹 **Languages**: HTML, CSS, JavaScript (ES6+), TypeScript  
+🔹 **Frameworks & Libraries**: React.js, Next.js, Tailwind CSS  
+🔹 **Tools**: Git, GitHub, Figma, Vercel, Webpack  
+🔹 **Other Skills**: Responsive Design, UI/UX, API Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced React patterns & performance optimization
+- Backend basics with Node.js & Express
+- Exploring Web Animations & Microinteractions
+- Exploring C#
+
+
+
+## 📫 Let's Connect!
+- 🌍 [Portfolio](https://portfoliosino.netlify.app/)  
+- 🔗 [LinkedIn](https://linkedin.com/in/sinosamateh)  
+
+🚀 *Let's build something awesome together!*
